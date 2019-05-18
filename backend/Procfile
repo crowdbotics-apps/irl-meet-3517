@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT irl_meet_3517.wsgi:application
